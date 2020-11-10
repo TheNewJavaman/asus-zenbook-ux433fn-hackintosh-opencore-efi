@@ -1212,7 +1212,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C02927207J9JP4FJC</string>
+			<string>C02936303GUJH4R1H</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1220,11 +1220,11 @@
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,1</string>
+			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z107SKGYG</string>
+			<string>C02ZCTYEJHCC</string>
 			<key>SystemUUID</key>
-			<string>B4064E95-6E37-4597-8901-A7018A6B5F47</string>
+			<string>76887454-DDED-47F9-A13E-D7AE9B03D471</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
