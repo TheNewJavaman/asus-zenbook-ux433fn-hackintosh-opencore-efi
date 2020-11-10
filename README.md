@@ -4,11 +4,11 @@ EFI files for my Hackintosh laptop (Asus Zenbook UX433FN, Whiskey Lake)
 
 ## specs
 
-Model: Asus Zenbook UX433FN
-CPU: Intel i7-8565U
-GPU: Intel UHD620 + Nvidia MX150 (disabled for macOS)
-RAM: 16GB
-SSD: 512GB NVME
+- Model: Asus Zenbook UX433FN
+- CPU: Intel i7-8565U
+- GPU: Intel UHD620 + Nvidia MX150 (disabled for macOS)
+- RAM: 16GB
+- SSD: 512GB NVME
 
 ## what works
 
